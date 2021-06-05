@@ -1,5 +1,12 @@
-# tmklCommands
-Termux and Kali Linux all Commands
+<!-- tmklCommands -->
+
+<p align="center">
+  <img src=".imgs/cover.gif">
+</p>
+
+<p align="center">Termux and Kali Linux all Commands.</p>
+
+##
 
 ### Termux all Commands
 
