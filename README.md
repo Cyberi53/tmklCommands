@@ -1,7 +1,7 @@
 <!-- tmklCommands -->
 
 <p align="center">
-  <img src=".imgs/cover.gif">
+  <img src=".imgs/cv.gif">
 </p>
 
 <p align="center">Termux and Kali Linux all Commands.</p>
