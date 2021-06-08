@@ -35,13 +35,19 @@ $ cmatrix
 ```
 $ rm -rf (uninstall tools name)
 ```
-- File and folder transfer from SD Card to termux
+- File and folder transfer from `SD Card` to termux
 ```
 $ cd /sdcard
 $ ls
 $ cp -r (file or folder name) /$HOME
 $ cd
 $ ls
+$ rm -r (remove file or folder name)
+```
+- File and folder transfer from `Termux` to SD Card
+```
+$ cp -r (file or folder name) /sdcard
+$ mv (file or folder name) /sdcard
 ```
 
 ##
