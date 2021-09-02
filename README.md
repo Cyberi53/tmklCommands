@@ -33,21 +33,21 @@ $ pkg install python3 python3-pip git -y
 $ pkg install nodejs -y
 $ pkg install openjdk-17
 ```
-
 ```
 $ termux-setup-storage
 ```
 
-- `cmatrix` Hacker intro
+> `cmatrix Hacker intro`
 ```
 $ apt install cmatrix
 $ cmatrix
 ```
-- Any tool `Uninstall`
+> `Any tool Uninstall`
 ```
 $ rm -rf (uninstall tools name)
 ```
-- File and folder transfer from `SD Card` to termux
+
+> `Folder or files transfer from SD Card to termux`
 ```
 $ cd /sdcard
 $ ls
@@ -56,7 +56,7 @@ $ cd
 $ ls
 $ rm -r (remove file or folder name)
 ```
-- File and folder transfer from `Termux` to SD Card
+> `Folder or files transfer from Termux to SD Card`
 ```
 $ cp -r (file or folder name) /sdcard
 $ mv (file or folder name) /sdcard
