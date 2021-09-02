@@ -33,6 +33,7 @@ $ pkg install python3 python3-pip git -y
 $ pkg install nodejs -y
 $ pkg install openjdk-17
 ```
+
 ```
 $ termux-setup-storage
 ```
@@ -42,6 +43,16 @@ $ termux-setup-storage
 $ apt install cmatrix
 $ cmatrix
 ```
+
+> `Social Media`
+```
+$ pkg install irssi
+$ irssi
+$ /connect freenode
+$ /nick (YourName)
+$ /join (GroupName)
+```
+
 > `Any tool Uninstall`
 ```
 $ rm -rf (uninstall tools name)
