@@ -11,10 +11,13 @@
 ### Termux all Commands
 
 ```
-$ pkg update
-$ pkg upgrade
 $ apt-get update
 $ apt update && apt upgrade
+```
+
+```
+$ pkg update
+$ pkg upgrade
 $ pkg install python
 $ pkg install python2
 $ pkg install python3
@@ -23,11 +26,17 @@ $ pkg install php
 $ pkg install wget
 $ pkg install nano
 $ apt install figlet
-$ pkg install openjdk-17
 $ pkg install python3 python3-pip git -y
-$ termux-setup-storage
 ```
 
+```
+$ pkg install nodejs -y
+$ pkg install openjdk-17
+```
+
+```
+$ termux-setup-storage
+```
 
 - `cmatrix` Hacker intro
 ```
