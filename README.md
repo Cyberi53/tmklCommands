@@ -23,9 +23,11 @@ $ pkg install php
 $ pkg install wget
 $ pkg install nano
 $ apt install figlet
+$ pkg install openjdk-17
 $ pkg install python3 python3-pip git -y
 $ termux-setup-storage
 ```
+
 
 - `cmatrix` Hacker intro
 ```
